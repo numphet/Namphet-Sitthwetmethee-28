@@ -5,8 +5,8 @@
 # ==========================================
 
 
-score = int(input("คะแนนสอบ: "))
-if score>=50
- print("Pass")
-elif score<=49
- print("Fail")
+a=int(input("ตัวเลข: "))
+if a/2
+    print("Even")
+elif
+    print("Odd")
